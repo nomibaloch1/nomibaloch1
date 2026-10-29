@@ -5,7 +5,9 @@
 
 ### `IT STUDENT • DEVELOPER • GAMER • CREATIVE LEARNER`
 
-<img src="./profile.jpg" width="180" alt="Noman Baloch">
+<img src="./profile.jpg" width="180" alt="Noman Baloch">![Profile Views](https://komarev.com/ghpvc/?username=nomibaloch1&color=00e5ff&style=flat-square&label=PROFILE+VIEWS)
+
+
 
 <br/>
 
