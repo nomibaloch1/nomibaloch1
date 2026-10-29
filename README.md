@@ -5,7 +5,7 @@
 
 ### `IT STUDENT • DEVELOPER • GAMER • CREATIVE LEARNER`
 
-<img src="./profile.jpg" width="180" alt="Noman Baloch">
+<img src="./profile.JPG" width="180" alt="Noman Baloch">
 
 <br/>
 
