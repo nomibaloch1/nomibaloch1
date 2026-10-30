@@ -47,7 +47,7 @@
 
 My personal website showcasing my profile, projects, interests, travel adventures and favourite movies.
 
-**[Explore My Portfolio →](https://nomibaloch1.github.io/NOMI-BALOCH/)**
+**[Explore My Portfolio →](https://nomibaloch1.github.io/My-Portfolio/)**
 
 ---
 
