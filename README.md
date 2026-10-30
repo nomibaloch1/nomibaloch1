@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://nomibaloch1.github.io/NOMI-BALOCH/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://nomibaloch1.github.io/My-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nomibaloch1)
 
 </div>
@@ -42,8 +42,6 @@
 </div>
 
 ---
-
-## 🚀 Featured Project
 
 ### 🌐 Noman Portfolio
 
