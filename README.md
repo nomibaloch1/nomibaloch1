@@ -43,13 +43,13 @@
 
 ---
 
-### 🌐 Noman Portfolio
+### Portfolio
 
 My personal website showcasing my profile, projects, interests, travel adventures and favourite movies.
 
 **[Explore My Portfolio →](https://nomibaloch1.github.io/My-Portfolio/)**
 
-### Noman Cv
+### Cv
 **[Checkout my Cv →](https://nomibaloch1.github.io/My-CV/)**
 
 
